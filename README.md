@@ -8,9 +8,9 @@
 
 - Master's student and Software Engineer passionate about solving complex problems.
 - Skilled in **Java**, **Spring Boot**, and **Angular**.
-- Currently working on a **Tokenizer** for my project [FileSearch](#) to make search more efficient.
+- Currently working on a **Tokenizer** for my project [FileSearch](https://github.com/baiching/FileSearch) to make search more efficient.
 - Always eager to learn and take on new challenges.
-- Loves **Cycling** 🚴‍♂️.
+- Love **Cycling** 🚴‍♂️.
 
 ---
 
