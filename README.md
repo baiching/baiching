@@ -1,23 +1,21 @@
-# 👋 Hi, I'm Uthowaipru Chowdhury Baiching
-
-**Software Engineer | Master's Student**
-
----
-
-## 🚀 About Me
-
-- Master's student and Software Engineer passionate about solving complex problems.
-- Skilled in **Java**, **Spring Boot**, and **Angular**.
-- Currently working on a **Tokenizer** for my project [FileSearch](https://github.com/baiching/FileSearch) to make search more efficient.
-- Always eager to learn and take on new challenges.
-- Love **Cycling** 🚴‍♂️.
+### Uthowaiprah Chowdhury Baiching
+Software Engineer | Master's Student
 
 ---
 
-## 🔍 Current Project
+### 🚀 About Me
+Master's student and Software Engineer passionate about solving complex problems through clean, efficient systems. Currently exploring high-performance networking and file processing.
 
-**NanoTokenizer**  
-Building an efficient Tokenizer for FileSearch to enhance search capabilities and performance.
+**Technical Interests:**
+- Systems programming and performance optimization
+- Network protocols and distributed systems  
+- Building minimal, effective tools
+
+---
+
+### 🔧 Current Projects
+- **[File Transfer Tool](https://github.com/baiching/file_trf)** - Fast, reliable file sharing over local networks
+- **[Slide Generator](https://github.com/baiching/slide_generator)** - Convert markdown to presentation slides
 
 ---
 
@@ -25,10 +23,6 @@ Building an efficient Tokenizer for FileSearch to enhance search capabilities an
 
 - **LinkedIn:** [uthowaipru-chowdhury-baiching](https://www.linkedin.com/in/uthowaipru-chowdhury-baiching/)
 - **Email:** baichingc@gmail.com
-
----
-
-> _"Interested in complex problems."_
 
 <!--
 **baiching/baiching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
