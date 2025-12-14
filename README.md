@@ -14,7 +14,7 @@ Master's student and Software Engineer passionate about solving complex problems
 ---
 
 ### 🔧 Current Projects
-- **[File Transfer Tool](https://github.com/baiching/file_trf)** - Fast, reliable file sharing over local networks
+- **[Tpool: A Threadpool](https://github.com/baiching/tpool)** - Task completion notification based library
 - **[Slide Generator](https://github.com/baiching/slide_generator)** - Convert markdown to presentation slides
 
 ---
