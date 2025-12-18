@@ -15,7 +15,7 @@ Master's student and Software Engineer passionate about solving complex problems
 
 ### 🔧 Current Projects
 - **[Tpool: A Threadpool](https://github.com/baiching/tpool)** - Task completion notification based library
-- **[Slide Generator](https://github.com/baiching/slide_generator)** - Convert markdown to presentation slides
+- **[Malloc Tracker](https://github.com/baiching/mylibs/tree/master/memory)** - A tool to ensure no memory leaks
 
 ---
 
