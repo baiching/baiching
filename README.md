@@ -14,6 +14,7 @@ Master's student and Software Engineer passionate about solving complex problems
 ---
 
 ### 🔧 Current Projects
+- **[fdz: file search tool](https://github.com/baiching/fdz)** - A cli based windows file searching tool
 - **[Tpool: A Threadpool](https://github.com/baiching/tpool)** - Task completion notification based library
 - **[Malloc Tracker](https://github.com/baiching/mylibs/tree/master/memory)** - A tool to ensure no memory leaks
 
